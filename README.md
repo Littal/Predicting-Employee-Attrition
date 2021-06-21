@@ -1,5 +1,5 @@
 # Predicting-Employee-Attrition
-R code used in the article "Predicting Employee Attrition: R vs DMWay" by Littal Shemer Haim, February 2017 - https://www.littalshemerhaim.com/predicting-employee-attrition-r-vs-dmway/
+R code used in the article [Predicting Employee Attrition: R vs DMWay]" (https://www.littalics.com/predicting-employee-attrition-r-vs-dmway/) by Littal Shemer Haim, February 2017
 
 (Quoted from the article)
 We are all familiar with the story of David and Goliath, a shepherd who has defeated a mighty warrior, and the allegory of the underdog beating the giant. Is this story applicable to **“People Analytics”**?
