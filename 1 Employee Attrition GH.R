@@ -1,4 +1,6 @@
-#Why are our best and most experienced employees leaving prematurely?
+# Why are our best and most experienced employees leaving prematurely?
+# This R code was used for the article: 
+# https://www.littalics.com/predicting-employee-attrition-r-vs-dmway/
 
 rm(list=ls())
 #setwd("~/...")
